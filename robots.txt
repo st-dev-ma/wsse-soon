@@ -1,0 +1,7 @@
+# نسخة احتياطية تُستبدل تلقائياً بـ robots.php عند تفعيل mod_rewrite
+User-agent: *
+Allow: /
+Disallow: /admin.php
+Disallow: /api.php
+Disallow: /data/
+Disallow: /error.php

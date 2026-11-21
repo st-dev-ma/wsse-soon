@@ -1,0 +1,45 @@
+{
+    "subs": [
+        {
+            "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/fn_IVi_oe2o:APA91bG4kI42A6teKD0p9jdWRisRrWXebfcuPIsoq1TX_wcoTNnK1pf9cttxaiHM84YG2RAnLRawWaM0zr106Ku9A36Nn_GEPpe8Wtno4MuEtvjirtZ7nBSAgDdO9JLtCnVk5EBhgUcP",
+            "ts": 1794600429,
+            "dev": "mobile"
+        },
+        {
+            "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/e5reUAaoxoI:APA91bGyrIg7gioff2FCe72-s7Q2g7DIYjI2kuxjP4S2MqarWnCU558LT7mpubhgeEHYRPq5gVcdf0-Pw8JSOCRgnWFqYFRvHpoBzbGT5dGTQqitn_JWaI4ZI4fgYjeDQt9U_nW76non",
+            "ts": 1794943115,
+            "dev": "mobile"
+        },
+        {
+            "endpoint": "https:\/\/updates.push.services.mozilla.com\/wpush\/v2\/gAAAAABq-GK9acVyeosYyumJcHq9KWyFHLZiartxaGUHt3qjHPR7jlWcgXpydpRD7MKbLX9dxLIUCVRH6mDhkauJLpdbo_rXfPZyP1gX-QugvCfcYWGzOoUgPSnDo0lbZ-MlTBHZ7c0Y4pzIaJZM1Xtxh6ECv2zRCHZ0QDLILDmvTSlw2_y1Vz0",
+            "ts": 1795008863,
+            "dev": "desktop"
+        },
+        {
+            "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/cUBfjP6_6_I:APA91bF8QTqTzNSU7eqqrJHQz1ld7ExXeivRdsGbo8FT4ndCLiA5cS8C0s2W6suokHpsQJmPDOZgn4bpQNUqFJ5-051yBI9AKO1tVarPlCYK0xuw5EChxznmzrlwqCqKBTaLpoUCyaJl",
+            "ts": 1795205672,
+            "dev": "mobile"
+        },
+        {
+            "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/dMJiMz_9LcU:APA91bHZXexnRy7DhV-5oG2avT9GbZF44Q7nMh-L4-533BKhosmQTxW8jqnwNlIwh53hbhlTv2W6S5t8ZfQ_6v6uCiRFM9Wr6HXdCDCaUaFHq6RnM3D9z7KK4haiMKqy7i-LKrUtvQTg",
+            "ts": 1795209684,
+            "dev": "mobile"
+        },
+        {
+            "endpoint": "https:\/\/updates.push.services.mozilla.com\/wpush\/v2\/gAAAAABq9wGJI7hJGcuf9ZPZkdlcSw1frLA1xtfkVhPm_9eVXFxqm486jGYxRKRpX5fjhWxVb8wR7RZe_oQvcgA2UPElUTz9-JN-5cGwq2Sm-iZxajYKRsPKy1McwUO1s5Sr91QimG6_JnCoHHsKnvTiVKd2ymALHqhtUXSZv0k1h2vGt2GBhOY",
+            "ts": 1795216481,
+            "dev": "desktop"
+        },
+        {
+            "endpoint": "https:\/\/fcm.googleapis.com\/fcm\/send\/dC5HnhEGlIs:APA91bH2bno1Np7PXzhicPktJfL5PMbvrfDX8pdyRerXYpBHfI10tzkgAWA_Hz7bIPf0LhJnMv3TuuYgG7UR8vnz_70kzFr6f5mp9NFdKlA7Se2mWCQgtUK9spfA43ctJuRudQ3j6NuY",
+            "ts": 1795222038,
+            "dev": "mobile"
+        }
+    ],
+    "ann": {
+        "t": "تجربة",
+        "b": "إشعار",
+        "ts": 1794540379
+    },
+    "n": 14
+}

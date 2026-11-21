@@ -1,0 +1,192 @@
+{
+    "site_title": "نادي وفاق أزغنغان  | الموقع الرسمي",
+    "main_heading": "هنا يبدأ الشغف. وهنا نصنع الفارق.",
+    "sub_message": "تابع آخر أخبار الفريق، مواعيد المباريات، ونجوم النادي في مكان واحد.",
+    "logo": "WSSE_files\/uploads\/logo_a159e1e4a86b.jpg",
+    "is_live": false,
+    "live_minute": "45'",
+    "home_score": 0,
+    "away_score": 0,
+    "finished": false,
+    "final_home": "",
+    "final_away": "",
+    "show_correct_predictions": true,
+    "social": {
+        "active": true,
+        "facebook": "https:\/\/www.facebook.com\/p\/Wifak-Sportif-Segangan-61595873276996\/",
+        "twitter": "",
+        "instagram": "https:\/\/www.instagram.com\/wifaksportifsegangan",
+        "youtube": ""
+    },
+    "banners": {
+        "horizontal_active": false,
+        "horizontal_code": "<a href=\"https:\/\/www.facebook.com\/ETABLISSEMENT.ELMAABOUDI\/\" target=\"_blank\" rel=\"noopener sponsored\"><img src=\"https:\/\/wsse.ma\/WSSE_files\/uploads\/elmaaboudi.jpg\" alt=\"مؤسسة المعبودي لتربية والتعليم الخصوصي\" loading=\"lazy\" style=\"display:block;margin:auto;height:900;width:77%\"><\/a>",
+        "vertical_active": false,
+        "vertical_code": "",
+        "slides": [
+            {
+                "img": "WSSE_files\/uploads\/bn_7f9385527f12.jpg",
+                "url": "https:\/\/wsse.ma\/new\/advertise.php",
+                "alt": "أعلن معنا!!"
+            },
+            {
+                "img": "https:\/\/wsse.ma\/WSSE_files\/uploads\/elmaaboudi.jpg",
+                "url": "https:\/\/www.facebook.com\/ETABLISSEMENT.ELMAABOUDI\/",
+                "alt": "مؤسسة المعبودي لتربية والتعليم الخصوصي"
+            }
+        ],
+        "slides_active": true,
+        "slide_sec": 5,
+        "slide_v": 2,
+        "slide_ratio": "leader"
+    },
+    "footer": {
+        "copyright": "© {year} WSSE - جميع الحقوق محفوظة",
+        "show_contact": true,
+        "show_advertise": true,
+        "email": "contact@wsse.ma",
+        "contact_intro": "",
+        "advertise_text": "نحن نوفر مساحات إعلانية بارزة (بنرات أفقية وعمودية) تضمن وصول إعلانك لآلاف الزوار والمتابعين الرياضيين يومياً."
+    },
+    "last_match": [],
+    "match": {
+        "home_team": "وفاق أزغنغان",
+        "home_logo": "https:\/\/wsse.ma\/WSSE_files\/uploads\/logo_a159e1e4a86b.jpg",
+        "home_rank": "المركز 9",
+        "away_team": "نهضة تمسمان",
+        "away_logo": "WSSE_files\/uploads\/team_1a557ac22d5c.jpg",
+        "away_rank": "المركز 8",
+        "date": "2026-11-22",
+        "time": "14:00",
+        "stadium": "الشريف محمد أمزيان",
+        "city": "أزغنغان",
+        "competition": "القسم الأول لعصبة الشرق : مجموعة الشمال",
+        "round": "الجولة 3",
+        "weather": "غائم جزئياً 21°م"
+    },
+    "motm": {
+        "active": false,
+        "poll": 4,
+        "question": "من  نجم المباراة ؟",
+        "candidates": [
+            {
+                "name": "مصطفى بكوري",
+                "votes": 0
+            },
+            {
+                "name": "محمد التونسي",
+                "votes": 1
+            },
+            {
+                "name": "أيوب أوسليخ",
+                "votes": 0
+            }
+        ]
+    },
+    "gallery": [
+        {
+            "url": "WSSE_files\/uploads\/gal_666dc35bf872.jpg",
+            "caption": "مبارة أمل ميضار ضد وفاق أزغنغان",
+            "ts": 1794968823
+        },
+        {
+            "url": "WSSE_files\/uploads\/gal_b2c4860b07fc.jpg",
+            "caption": "مبارة أمل ميضار ضد وفاق أزغنغان",
+            "ts": 1794968852
+        },
+        {
+            "url": "WSSE_files\/uploads\/gal_8eceb1c00288.jpg",
+            "caption": "مبارة أمل ميضار ضد وفاق أزغنغان",
+            "ts": 1794969061
+        },
+        {
+            "url": "WSSE_files\/uploads\/gal_8ee2be6a4621.jpg",
+            "caption": "مبارة أمل ميضار ضد وفاق أزغنغان",
+            "ts": 1794969082
+        }
+    ],
+    "bg_color": "#991b1b",
+    "bg_image": "WSSE_files\/uploads\/bg_fd11f2f34534.jpg",
+    "live": {
+        "st": "idle",
+        "pz": false,
+        "per": 1,
+        "run": false,
+        "seg": 0,
+        "acc": 0,
+        "half": 45,
+        "stop1": 0,
+        "stop2": 0,
+        "rev": 17949324852,
+        "events": []
+    },
+    "archive": [
+        {
+            "home_team": "وفاق أزغنغان",
+            "home_logo": "WSSE_files\/uploads\/team_1b76c882c6e8.jpg",
+            "home_score": 1,
+            "away_team": "شباب ويكسان",
+            "away_logo": "WSSE_files\/uploads\/team_94f4ed05c96c.jpg",
+            "away_score": 1,
+            "date": "2026-11-08",
+            "stadium": "الشريف محمد أمزيان",
+            "city": "أزغنغان",
+            "competition": "القسم الأول لعصبة الشرق : مجموعة الشمال",
+            "round": "الجولة 1"
+        },
+        {
+            "home_team": "أمل ميضار",
+            "home_logo": "WSSE_files\/uploads\/team_e9e33310c068.jpg",
+            "home_score": 1,
+            "away_team": "وفاق أزغنغان",
+            "away_logo": "WSSE_files\/uploads\/team_1b76c882c6e8.jpg",
+            "away_score": 1,
+            "date": "2026-11-14",
+            "stadium": "الملعب البلدي ميضار",
+            "city": "ميضار",
+            "competition": "القسم الأول لعصبة الشرق : مجموعة الشمال",
+            "round": "الجولة 2"
+        }
+    ],
+    "team": {
+        "name": "وفاق أزغنغان",
+        "logo": "https:\/\/wsse.ma\/WSSE_files\/uploads\/logo_a159e1e4a86b.jpg"
+    },
+    "standings": {
+        "active": true,
+        "pos": "after_hero",
+        "rank": 9,
+        "competition": "القسم الأول لعصبة الشرق : مجموعة الشمال",
+        "mode": "auto",
+        "win_pts": 3,
+        "draw_pts": 1,
+        "manual": {
+            "p": 0,
+            "w": 0,
+            "d": 0,
+            "l": 0,
+            "gf": 0,
+            "ga": 0,
+            "pts": 0,
+            "form": ""
+        }
+    },
+    "reminder": {
+        "on": true,
+        "min": 60
+    },
+    "seo": {
+        "base_url": "https:\/\/wsse.ma",
+        "title": "",
+        "desc": "الموقع الرسمي لنادي وفاق أزغنغان الرياضي",
+        "keywords": "",
+        "og_image": "",
+        "twitter": "",
+        "gverify": "",
+        "bverify": "1C3130392006000C08E3FEA48BDF65BB",
+        "org_alt": "WSSE, وفاق أزغنغان, Wifaq Azghanghan,azghanghan,segangan,nador,rif,maroc,zegangan",
+        "country": "MA",
+        "noindex": false,
+        "hide_uc": true
+    }
+}

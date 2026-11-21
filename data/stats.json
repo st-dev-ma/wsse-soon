@@ -1,0 +1,213 @@
+{
+    "seen": {
+        "d": "2026-11-21",
+        "ids": {
+            "24ee7a041b": 1,
+            "10410dab68": 1,
+            "6acf765817": 1,
+            "6b36ec6351": 1
+        },
+        "last": {
+            "24ee7a041bindex": 1795221759,
+            "6acf765817index": 1795221892,
+            "6b36ec6351index": 1795222038
+        }
+    },
+    "days": {
+        "2026-11-18": {
+            "v": 27,
+            "u": 23,
+            "p": {
+                "index": 27
+            },
+            "s": 27,
+            "c": {
+                "MA": 26,
+                "ES": 1
+            },
+            "d": {
+                "mobile": 23,
+                "desktop": 4
+            },
+            "o": {
+                "Android": 9,
+                "iOS": 14,
+                "Windows": 4
+            },
+            "b": {
+                "Chrome": 13,
+                "أخرى": 4,
+                "Firefox": 4,
+                "Safari": 6
+            },
+            "r": {
+                "مباشر \/ غير معروف": 18,
+                "Facebook": 5,
+                "داخلي": 4
+            },
+            "k": {
+                "back_home": 1,
+                "soc_instagram": 1
+            }
+        },
+        "2026-11-19": {
+            "v": 23,
+            "u": 21,
+            "p": {
+                "index": 21,
+                "advertise": 1,
+                "contact": 1
+            },
+            "s": 23,
+            "c": {
+                "MA": 11,
+                "US": 12
+            },
+            "d": {
+                "mobile": 7,
+                "desktop": 16
+            },
+            "o": {
+                "Android": 4,
+                "Windows": 4,
+                "Linux": 12,
+                "iOS": 3
+            },
+            "b": {
+                "Chrome": 21,
+                "Firefox": 1,
+                "Safari": 1
+            },
+            "r": {
+                "داخلي": 13,
+                "vmi1646066.contaboserver.net": 1,
+                "مباشر \/ غير معروف": 8,
+                "Facebook": 1
+            },
+            "k": {
+                "mp_page": 3,
+                "back_home": 2
+            }
+        },
+        "2026-11-20": {
+            "v": 33,
+            "u": 32,
+            "p": {
+                "index": 33
+            },
+            "s": 32,
+            "c": {
+                "MA": 22,
+                "SE": 2,
+                "US": 2,
+                "FR": 3,
+                "BE": 1,
+                "ES": 2
+            },
+            "d": {
+                "mobile": 27,
+                "desktop": 5
+            },
+            "o": {
+                "iOS": 13,
+                "Android": 14,
+                "Windows": 3,
+                "Linux": 2
+            },
+            "b": {
+                "Chrome": 17,
+                "Safari": 12,
+                "Samsung": 3
+            },
+            "r": {
+                "مباشر \/ غير معروف": 12,
+                "Facebook": 18,
+                "Instagram": 2
+            },
+            "k": {
+                "bh_1": 1,
+                "mp_page": 1,
+                "bh_2": 1
+            }
+        },
+        "2026-11-21": {
+            "v": 5,
+            "u": 4,
+            "p": {
+                "index": 5
+            },
+            "s": 5,
+            "c": {
+                "MA": 5
+            },
+            "d": {
+                "desktop": 3,
+                "mobile": 2
+            },
+            "o": {
+                "Windows": 3,
+                "Android": 2
+            },
+            "b": {
+                "Firefox": 2,
+                "Chrome": 3
+            },
+            "r": {
+                "مباشر \/ غير معروف": 4,
+                "Google": 1
+            },
+            "k": {
+                "lineup": 2
+            }
+        }
+    },
+    "snap": {
+        "t": "2026-11-20 23:45",
+        "v": {
+            "v": 83,
+            "s": 82,
+            "u": 76,
+            "k": 10,
+            "p:index": 81,
+            "c:MA": 59,
+            "c:ES": 3,
+            "d:mobile": 57,
+            "d:desktop": 25,
+            "o:Android": 27,
+            "o:iOS": 30,
+            "o:Windows": 11,
+            "b:Chrome": 51,
+            "b:أخرى": 4,
+            "b:Firefox": 5,
+            "b:Safari": 19,
+            "r:مباشر \/ غير معروف": 38,
+            "r:Facebook": 24,
+            "r:داخلي": 17,
+            "k:back_home": 3,
+            "k:soc_instagram": 1,
+            "p:advertise": 1,
+            "p:contact": 1,
+            "c:US": 14,
+            "o:Linux": 14,
+            "r:vmi1646066.contaboserver.net": 1,
+            "k:mp_page": 4,
+            "c:SE": 2,
+            "c:FR": 3,
+            "c:BE": 1,
+            "b:Samsung": 3,
+            "r:Instagram": 2,
+            "k:bh_1": 1,
+            "k:bh_2": 1,
+            "ev:install": 1,
+            "ev:standalone": 1,
+            "ev:notif_granted": 1,
+            "push": 5,
+            "inbox": 0
+        }
+    },
+    "ev": {
+        "install": 1,
+        "standalone": 1,
+        "notif_granted": 1
+    }
+}

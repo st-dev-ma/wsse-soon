@@ -1,0 +1,8 @@
+{
+    "vapid": {
+        "pub": "BGunR1QK-8mg-m8MIOG5KAQ76RUxbVibo3xz5AtApDBuqoNxLu4S2UbONv8v9fPOorQoax3GIcu-LcGO1ZjJFoE",
+        "pem": "-----BEGIN EC PRIVATE KEY-----\nMHcCAQEEIBqKSHz7QVteXnRBm+0jWA2ornOHoUyA7o6aQHZy+xeAoAoGCCqGSM49\nAwEHoUQDQgAEa6dHVAr7yaD6bwwg4bkoBDvpFTFtWJujfHPkC0CkMG6qg3Eu7hLZ\nRs42\/y\/1886itChrHcYhy74twY7VmMkWgQ==\n-----END EC PRIVATE KEY-----\n"
+    },
+    "hash": "$2y$10$A6MJ5s.eeGxAAj.2ghNqHezYKpnfRtKcoTzSYrCOzU6b9LlXMXBtS",
+    "cron": "9e333c9aa97403d382b4cb67"
+}

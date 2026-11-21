@@ -1,0 +1,32 @@
+wsse/
+│
+├── 📂 data/ [Flat-file JSON — محمي بـ .htaccess (Require all denied)]
+│   ├── .htaccess
+│   ├── config.json          (إعدادات النظام: هاش كلمة المرور + مفاتيح VAPID للإشعارات)
+│   ├── data.json            (المحتوى والمباراة والبث الحي)
+│   ├── predictions.json     (توقعات الجماهير)
+│   ├── voters.json          (المصوتون)
+│   ├── subscribers.json     (المشتركون بالبريد)
+│   ├── messages.json        (صندوق الوارد: راسلنا + طلبات الإعلان)
+│   ├── rl.json              (Rate Limiting)
+│   ├── stats.json           (إحصائيات الزوار والنقرات والتثبيت)      [جديد]
+│   ├── backups/             (نسخ الترقية الاحتياطية — يُنشأ تلقائياً)
+│   └── push.json            (اشتراكات الإشعارات + آخر إعلان يدوي)    [جديد]
+│
+├── 📂 WSSE_files/
+│   ├── app.js               (الواجهة: اشتراك Push، تتبع الزيارات والنقرات)
+│   ├── logo.svg
+│   ├── pitch.jpg            (خلفية ملعب التشكيلة)
+│   ├── icons/               (يُنشأ تلقائياً — أيقونات PNG المولّدة)
+│   └── uploads/             (الرفع — .htaccess يمنع تنفيذ PHP)
+│
+├── .htaccess                (حماية الجذر)
+├── inc.php   api.php   admin.php   index.php   contact.php   advertise.php
+├── parts.php                (عناصر العرض: ألبوم، صوت الجماهير، توقعات المباراة، سلايدشو الإعلانات)
+├── seo.php                  (SEO: وسوم، JSON-LD، فهرسة المباريات والأندية والوسوم)
+├── sitemap.php  rss.php  robots.php   (خريطة الموقع + الصور / RSS / robots — عبر sitemap.xml و rss.xml و robots.txt)
+├── robots.txt               (نسخة احتياطية)
+├── error.php                (صفحة الخطأ 403/404 المصممة)
+├── icon.php                 (يولّد أيقونات PNG للتطبيق؛ يخزّنها في WSSE_files/icons/)
+├── manifest.php
+└── sw.js                    (Service Worker + استقبال Push)
